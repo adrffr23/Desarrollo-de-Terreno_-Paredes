@@ -1,4 +1,5 @@
 # Desarrollo de Terreno - Unity
+Abrir el proyecto con Unity 6.3 LTS o una versión compatible.
 
 ## Descripción
 
